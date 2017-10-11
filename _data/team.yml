@@ -1,0 +1,9 @@
+- name: Malola
+  role: Head
+  url: https://atc1.aut.uah.es/~mdolores/
+  photo: /assets/videogames/2015-6/TimeWanderer.png
+
+- name: Pablo
+  role: Researcher
+  url: https://atc1.aut.uah.es/~pmunoz/
+  photo: /assets/videogames/2015-6/TimeWanderer.png
