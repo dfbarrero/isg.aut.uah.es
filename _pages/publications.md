@@ -10,6 +10,4 @@ header:
   #cta_url: "https://unsplash.com"
 ---
 
-There are alternative publication lists (perhaps incomplete) on [Google Citations](http://scholar.google.com/citations?hl=en&user=1HXXKSwAAAAJ), [Mendeley](http://www.mendeley.com/profiles/david-f-barrero/), [DBLP](http://dblp.uni-trier.de/pers/hd/b/Barrero:David_F=.html) and [Academia](http://uah.academia.edu/DavidFBarrero).
-
 {% bibliography %}
