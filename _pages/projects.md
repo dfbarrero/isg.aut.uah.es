@@ -16,7 +16,7 @@ header:
 {% for project in site.data.projects %}
 {% if project.type == "National" %}
     <li>
-         <i>{{ project.name}} </i>. {{ project.funding}}. Participation of {{ project.participants}}. PI: {{ project.pi}}. {{project.grant}}. {{ project.years}}.
+         <i>{{ project.name}}</i>. {{ project.funding}}. Participation of {{ project.participants}}. PI: {{ project.pi}}. {{project.grant}}. {{ project.years}}.
     </li>
 {% endif %}
 {% endfor %}

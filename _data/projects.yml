@@ -6,6 +6,62 @@
   years: 2015-2016
   type: National
 
+- name: Algoritmos bioinspirados en entornos efímeros complejos
+  funding: Ministerio de Economia y Competitividad (TIN2014-56494-C4-4-P)
+  participants: Universidad de Málaga, Unversidad de Granada, Universidad Autónoma de Madrid and Universidad de Alcalá
+  pi: David Camacho, PhD
+  grant: 38.800 euros
+  years: 2015-2017
+  type: National
+
+- name: Supervisión y planificación en la asistencia de ancianos y discapacitados
+  funding: Junta de Comunidades de Castilla-La Mancha (PEII-2014-015-A)
+  participants: University of Alcalá (Computer Engineering, Mathematics, Nursing and Architecture Departments)
+  pi: María D. R-Moreno, PhD
+  grant: 45.510 euros
+  years: 2014-2015
+  type: National
+
+- name: Organización de las conferencias HUMASCEND y EST
+  funding: University of Alcalá
+  participants: University of Alcalá
+  pi: María D. R-Moreno
+  grant: 900 euros
+  years: 2014-2014
+  type: National
+
+- name: "SAVIERX2: Demostrador de tecnologías de interacción hombre-máquina con UAS"
+  funding: CDTI (IDI-20141068)
+  participants: Airbus Defense and Aerospaces, Universidad Autónoma de Madrid, Universidad Complutense, Universidad Carlos III, Universidad de Sevilla, Universidad Politécnica de Madrid, Universidad de Alcalá
+  pi: José Inserser Nieto
+  grant: 1.000.000 euros
+  years: 2014-2016
+  type: National
+
+- name: "SAVIER - Situational Awareness Virtual EnviRonment.  Communication and Interaction with UAS Open Innovation Project"
+  funding: EADS-CASSIDIAN (FUAM-076914)
+  participants: "Airbus Defense & Space, Universidad Politécnica de Madrid, Universidad de Sevilla, Universidad Carlos III de Madrid, Universidad Complutense, Universidad Autónoma de Madrid and Universidad de Alcalá"
+  pi: "José Insenser (Airbus Defense & Space), David Camacho (UAM) y María D. R-Moreno (UAH)"
+  grant: 400.000 euros
+  years: 2013-2017
+  type: International
+
+- name: Sistema colaborativo para vehículos sin piloto (COLSUVH)
+  funding: CDTI (52/2012)
+  participants: Ixion Industry & Aerospace and la University of Alcalá
+  pi: Enrique García (Ixion) and María D. R-Rodríguez, PhD (UAH)
+  grant: 68.036 euros
+  years: 2012-2013
+  type: National
+
+- name: Cooperative systems for autonomous exploration missions
+  funding: European Space Agency (4000106544/12/NL/PA)
+  participants: UAH and CNR-ISTC Rome
+  pi: María D. R-Moreno, PhD
+  grant: 90.000 euro
+  years: 2012-2015
+  type: International
+
 - name: Análisis del comportamiento de avatares basado en integración de conocimiento (ABANT)
   funding: Ministerio de Ciencia e Innovación (TIN2010-19872/TSI)
   participants: UAM and UAH
@@ -14,16 +70,33 @@
   years: 2011-2013
   type: National
 
-- name: Cooperative systems for autonomous exploration missions
-  funding: European Space Agency (ESA)
-  participants: UAH and CNR-ISTC Rome
+- name: Planificación de los recursos de una estación de seguimiento para explotación óptima
+  funding: Ixion Industry Aerospace S.L. (141/2011)
+  participants: TCP Sistemas e Ingeniería y Universidad de Alcalá
   pi: María D. R-Moreno, PhD
-  grant: 90.000 euro
-  years: 2012-2015
-  type: International
+  grant: 7.080 euros
+  years: 2011
+  type: National
+
+- name: Asesoramiento en sistemas de control autónomo y técnicas de planificación
+  funding: TCP Sistemas de Ingeniería (1/2011)
+  participants: TCP Sistemas e Ingeniería and University of Alcalá
+  pi: María D. R-Moreno, PhD
+  grant: 7.080 euros
+  years: 2011
+  type: National
+
+- name: Asesoramiento en sistemas de control autónomo y técnicas de planificación
+  funding: TCP Sistemas de Ingeniería (105/2010)
+  participants: TCP Sistemas e Ingeniería and University of Alcalá
+  pi: María D. R-Moreno, PhD
+  grant: 8.260 euros
+  years: 2010
+  type: National
 
 - name: COLlaborative VEhicles autonomous EXploration (COLVEX)
   funding: IMADE (PIE/660/2010)
+  participants: TCP Systemas e Ingeniería and University of Alcalá
   pi: Enrique García and María D. R-Moreno, PhD
   grant: 54.163,84 euro
   years: 2010-2011
@@ -54,11 +127,11 @@
   type: International
 
 - name: Autonomy for Interplanetary Missions
-  funding: European Space Agency (ESA)
-  participants: ESA, UAH
+  funding: European Space Agency (21619/08/NL/PA)
+  participants: ESA, CNR-ISTC and UAH
   pi: María D. R-Moreno, PhD
   grant: 90.000 euros
-  years: 2009-2011
+  years: 2008-2011
   type: International
 
 - name: "USo+i: Universidad, Sociedad e Innovación. Mejora de la Pertinencia de la Educación en las Ingenierías de Latinoamérica"
@@ -70,7 +143,7 @@
   type: International
 
 - name: Co-development using inner & Open Source in Software Intensive products 
-  funding: Telvent-Interactiva, ITEA IF04031
+  funding: Telvent-Interactiva (ITEA IF04031)
   participants: UAM, Telvent-Interactiva, UPM, Telefónica I+D, PHILIPS, NOKIA, Meritie, Gamelion, VTT Technical Research Centre of Finland, Helsinki School of Economics (HSE), ICT-Norway, European Software Institute (ESI), Combitech Systems, Hagskolan i Skovde 
   pi: David F. Barrero
   grant: 25.000 euros
@@ -87,9 +160,9 @@
       
 - name: Comunicaciones interactivas e inteligentes en grandes edificios II 
   funding: Junta de Comunidades de Castilla-La Mancha (PEII09-0266-6640) 
-  participants: UAH
-  pi:  María D. R-Moreno, PhD
-  grant: 93.000 euros
+  participants: UAH and WaveNet S.L.
+  pi:  María D. R-Moreno, PhD 
+  grant: 104.687.000 euros
   years: 2009-2011
   type: National
 
@@ -101,19 +174,174 @@
   years: 2008-2012
   type: National
 
+- name: "Advanced Mission Operations Concepts & Technologies for Future ESA Missions"
+  funding: European Space Agency (ITT AO 1-5415/07/F/VS)
+  participants: MARS Srl (Italy), Telespazio (Italy), CNR (Italy) and University de Alcala (Spain)
+  pi: MARS Srl
+  grant: 7.000 euros
+  years: 2008
+  type: International
+
+- name: Comunicaciones interactivas e inteligentes en grandes edificios
+  funding: Junta de Comunidades de Castilla-La Mancha (PAI07-0054-4397) 
+  participants: University of Alcalá and WaveNet S.L.
+  pi: María D. R-Moreno, PhD 
+  grant: 32.664 euros
+  years: 2007-2008
+  type: National
+
+- name: Replanificación logística basada en técnicas de regresión 
+  funding: "Espi & Le Barbier (FGUAM 076910)"
+  participants: UAH/UAM
+  pi: David Camacho, PhD (UAM) and María D. R-Moreno (UAH)
+  grant: 25.500 euros
+  years: 2007-2008
+  type: National
+
+- name: Modelización del programa y análisis de algoritmos de clasificación para la disminución de carga en problemas de asignación de tareas en handling
+  funding: Códice Technologies (FGUAM-076900)
+  participants: Universidad Autónoma de Madrid and Universidad de Alcalá
+  pi: David Camacho, PhD
+  grant: 16.675 euros
+  years: 2007-2010
+  type: National
+
+- name: "Tarjeta RTU modelo EM. No de expediente: 2007/97 subcontratación dentro del proyecto PROFIT del Programa Nacional de Espacio 2006. Ref. PNE-025/2006"
+  funding: Instituto Nacional de Técnica Aeroespacial (72/2007)
+  participants: INTA and University of Alcalá
+  pi: Dr. Óscar Rodríguez Polo, Dr. Daniel Meziat Luna and Dr. Sebastián Sánchez Prieto
+  grant: 57.652 euros
+  years: 2007
+  type: National
+
+- name: "Software de vuelo Nanosat. No de expediente 2007/31"
+  funding: Instituto Nacional de Técnica Aeroespacial (96/2007)
+  participants: INTA and University of Alcalá
+  pi: Dr. Óscar Rodríguez Polo, Dr. Daniel Meziat Luna and Dr. Sebastián Sánchez Prieto
+  grant: 157.760 euros
+  years: 2007
+  type: National
+
 - name: Sistema de planificación y control automático para procesos de aprendizaje de larga duración de entornos de educación electrónica
   funding: CICYT (TSI2006-12085)
-  participants: UAM, UAH
+  participants: UAM and UAH
   pi: David Camacho, PhD
   grant: 10.000 euros
   years: 2006-2007
   type: National
 
 - name: Evaluación y Planificación Automática como apoyo docente en entornos de enseñanzas virtuales 
-  funding: Vicerrectorado de Investigación de la UAH (Ref. UAH PI2005/084)
+  funding: Vicerrectorado de Investigación de la UAH (UAH PI2005/084)
   participants: UAH and Universidad Carlos III of Madrid
   pi: María D. R-Moreno, PhD
   grant: 6.000 euros
   years: 2005-2007
   type: National
+
+- name: Foro de innovación en tecnologías de la información y comunicaciones
+  funding: Consejería de Educación y Ciencia, Junta de Comunidades de Castilla-La Mancha
+  participants: University of Alcalá, CLIPE and APETI
+  pi: María D. R-Moreno, PhD
+  grant: 1.500 euros
+  years: 2005
+  type: National
+
+- name: Red nacional de Planificación, Scheduling, y Razonamiento Temporal
+  funding: CICYT (TIN2004-20168-E)
+  participants: 15 universities, one CSIC center and two corporations
+  pi: Luis Castillo, PdH and María D. R-Moreno, PhD (UAH node)
+  grant: 
+  years: 2005-2006
+  type: National
+
+- name: Tecnología para el estudio de la heliosfera interior solar
+  funding: CICYT (ESP2005-07290-C02-02)
+  participants: University of Alcalá (Physics and Computer Engineering Departments)
+  pi: Sebastián Sánchez Prieto, PhD
+  grant: 1.666.600 euros
+  years: 2005-2009
+  type: National
+
+- name: Programación en Java
+  funding: Intelligent Data S.L.
+  participants: Intelligent Data S.L. and University of Alcalá
+  pi: María D. R-Moreno, PhD
+  grant: 2.691 euros
+  years: 2005
+  type: National
+
+- name: Red nacional de Planificación, Scheduling, y Razonamiento Temporal
+  funding: CICYT (RNPST1-TIC2001-4936-E and RNPST2-TIN2004-20168E)
+  participants: 15 universities, one CSIC center and two corporations
+  pi: Luis Castillo, PdH and María D. R-Moreno, PhD (UAH node)
+  grant: 
+  years: 2002-2005
+  type: National
+
+- name: "Partículas energéticas en la heliosfera interior y su relación con el sol: instrumentación necesaria para su estudio desde misiones espaciales con órbitas cercanas al Sol"
+  funding: CICYT (ESP2002-04379-C02-01)
+  participants: University of Alcalá (Physics and Computer Engineering Departments)
+  pi: Sebastián Sánchez Prieto, PhD
+  grant: 10.120 euros
+  years: 2002-2005
+  type: National
+
+- name: Sistemas de planificación adaptativa en contexto multiagente
+  funding: CICYT (TIC2002-04146-C05-05)
+  participants: Universidad Carlos III de Madrid, Instituto de Investigación en Inteligencia Artificial, Universidad de Granada, Universidad Politécnica de Valencia, Universidad Nacional de Educación a Distancia
+  pi: Daniel Borrajo, PhD
+  grant: 
+  years: 2001-2005
+  type: National
+
+- name: Efecto de las interacciones no ionizantes de la radiación corpuscular energética sobre las propiedades ópticas y electrónicas del silicio
+  funding: Universidad de Alcalá. Vicerrectorado de Investigación (E024/2001)
+  participants: University of Alcalá (Physics and Computer Engineering Departments)
+  pi: Miguel Ángel Hidalgo Moreno, PhD
+  grant: 2.644
+  years: 2001
+  type: National
+
+- name: Estado de ionizacion de iones energéticos sometidos a mecanismos de aceleración en plasmas astrofísicos
+  funding: CICYT (BXX2000-0784)
+  participants: University of Alcalá (Physics and Computer Engineering Departments)
+  pi: Luis del Peral, PhD
+  grant: 
+  years: 2000-2003
+  type: National
+
+- name: Cosmic ray instrument tests and integration
+  funding: NATO (PST.CLG.977003)
+  participants: University of Alcalá (Physics and Computer Engineering Departments)
+  pi: José Medina Doctor, PhD
+  grant: 
+  years: 2000-2001
+  type: International
+
+- name: Especificación, diseño, desarrollo, integración y prueba de un ordenador y el software correspondiente, embarcable en satélite, para la adquisición y proceso de datos de imagen, gestión de instrumentos e interfaz con la plataforma 
+  funding: SENER, Ingeniería y Sistemas, S.A
+  participants: SENER, Alcatel, INSA, Universidad Carlos III
+  pi: Daniel Meziat Luna, PhD
+  grant: 
+  years: 1999-2000
+  type: National
+
+- name: "Estudio de las partículas energéticas solares y componente anómala de los Rayos Cósmicos Galácticos: instrumento PESCA a bordo del satélite PHOTON"
+  funding: CICYT (ESP 99-1066-C02-02)
+  participants: University of Alcalá (Physics and Computer Engineering Departments)
+  pi: José Medina Doctor, PhD
+  grant: 
+  years: 1999-2000
+  type: National
+
+
+
+- name:
+  funding:
+  participants:
+  pi: 
+  grant: 
+  years: 
+  type: National
+
 
