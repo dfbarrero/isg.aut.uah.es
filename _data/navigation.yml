@@ -5,5 +5,7 @@ main:
     url: /projects/
   - title: "Staff"
     url: /staff/
+  - title: "Research"
+    url: /research/
   - title: "Media"
     url: /media/
