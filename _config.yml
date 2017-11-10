@@ -13,9 +13,9 @@ title                    : "ISG's website"
 title_separator          : "-"
 name                     : "ISG-UAH"
 description              : "Intelligent Systems group"
-url                      : "https://atc1.aut.uah.es" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/~david/isg" # the subpath of your site, e.g. "/blog"
-repository               : "ISG-UAH/isg.aut.uah.es" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+url                      : "http://isg.aut.uah.es" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
+repository               : "" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200

@@ -5,8 +5,27 @@ layout: single
 <div class="home">
     <h1>Welcome</h1>
     
-    <p>Hi there. I am David F. Barrero, lecturer in the Department of Automática (Computer Engineering) in the Univerity of Alcalá (Madrid, Spain). In this web site you can find information about my research and teaching activities. </p>
+    <p>The Intelligent Systems Group (ISG) is a research group devoted to the research of Artificial Intelligence and its applications. ISG is composed of researchers from different departments (Computer Engineering, Computer Science and Mathematics) of University of Alcalá, in Spain.</p>
 
-    <p>You can get more information through my social media profiles: <a href="http://www.linkedin.com/in/dfbarrero">LinkedIn</a>, <a href="http://scholar.google.com/citations?hl=en&amp;user=1HXXKSwAAAAJ">Google Citations</a>, <a href="http://www.mendeley.com/profiles/david-f-barrero/">Mendeley</a>, <a href="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/b/Barrero:David_F=.html">DBLP</a>, <a href="http://uah.academia.edu/DavidFBarrero">Academia</a>. Sometimes I enjoy taking pictures, you can see some of them in my <a href="https://www.flickr.com/photos/dfbarrero">Flickr</a> account.</p>
+    <p>The group is active in high scientific and commercial areas, such as Space Research, Autonomous Systems Control (Robotics), Machine Learning, Process optimization based on Bio-inspired computing, Early Detection of Users Commercial Intentions, Social Networks or Simulation Environments and Pattern Behavior Recognition for people and systems.</p>
+
+<style>
+#logos {
+   text-align: center;
+}
+
+.logo {
+   display: inline-block;
+   margin-left: auto;
+   margin-right: auto;
+}
+</style>
+
+<p id="logos">
+  <img class="logo" src="{{site.baseurl}}/assets/img/01_logo-vA_293-fondoTransp.png" alt="UAH logo" title="UAH logo">
+  <img class="logo" src="{{site.baseurl}}/assets/img/logoGSI_Colour.png" alt="UAH logo" title="UAH logo">
+</p>
 
 </div>
+
+

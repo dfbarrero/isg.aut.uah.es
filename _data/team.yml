@@ -34,4 +34,16 @@
   photo: /assets/img/drodriguez.jpg
   interest: Machine Learning, Software Engineering
 
+- name: Bonifacio Castaño, PhD
+  role: Assistant professor
+  url: https://www.linkedin.com/in/bonifacio-casta%C3%B1o-mart%C3%ADn-47a00b1b
+  photo: /assets/img/bonifacio.jpg
+  interest: Monte-Carlo methods, simulation, mathematical modelling
+
+- name: Ángel Moreno Blázquez
+  role: Associate lecturer
+  url: http://www.linkedin.com/in/angel-moreno-blazquez
+  photo: /assets/img/angel.png
+  interest: Machine Learning
+
 
