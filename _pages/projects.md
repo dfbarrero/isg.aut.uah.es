@@ -20,8 +20,12 @@ header:
 {% for project in site.data.projects %}
 {% if project.type == "National" %}
     <li>
-         <i>{{ project.name}}</i>. {{ project.funding}}. Participation of {{ project.participants}}. PI: {{ project.pi}}. {{project.grant}}. {{ project.years}}.
-    </li>
+			{% if project.url %}
+				<a href="{{project.url}}"><i>{{ project.name}}</i>. {{ project.funding}}. Participation of {{ project.participants}}. PI: {{ project.pi}}. {{project.grant}}. {{ project.years}}.</a>
+			{% else %}
+				<i>{{ project.name}}</i>. {{ project.funding}}. Participation of {{ project.participants}}. PI: {{ project.pi}}. {{project.grant}}. {{ project.years}}.
+			{% endif %}
+	</li>
 {% endif %}
 {% endfor %}
 </ol>
@@ -32,8 +36,12 @@ header:
 {% for project in site.data.projects %}
 {% if project.type == "International" %}
     <li>
-         <i>{{ project.name}} </i>. {{ project.funding}}. Participation of {{ project.participants}}. PI: {{ project.pi}}. {{project.grant}}. {{ project.years}}.
-    </li>
+		{% if project.url %}
+			<a href="{{project.url}}"><i>{{ project.name}} </i>. {{ project.funding}}. Participation of {{ project.participants}}. PI: {{ project.pi}}. {{project.grant}}. {{ project.years}}.</a>
+		{% else %}
+			<i>{{ project.name}} </i>. {{ project.funding}}. Participation of {{ project.participants}}. PI: {{ project.pi}}. {{project.grant}}. {{ project.years}}.
+		{% endif %}
+	</li>
 {% endif %}
 {% endfor %}
 </ol>

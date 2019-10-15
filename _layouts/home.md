@@ -29,7 +29,6 @@ layout: single
 <p id="logos">
   <img class="logo" src="{{site.baseurl}}/assets/img/01_logo-vA_293-fondoTransp.png" alt="UAH logo" title="UAH logo">
   <img class="logo" src="{{site.baseurl}}/assets/img/logoGSI_Colour.png" alt="UAH logo" title="UAH logo">
-  <a href="{{site.baseurl}}/clm/"><img id="cml-logo" class="logo" src="{{site.baseurl}}/assets/img/logo_clm.png" alt="Castilla-La Mancha-logo" title="Castilla-La Mancha-logo"></a>
 </p>
 
 </div>

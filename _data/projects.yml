@@ -1,3 +1,11 @@
+- name: Aplicación de Aprendizaje Automático sobre datos biológicos de pacientes de diabetes.
+  funding: Fondo Social Europeo
+  participants: Junta de Comunidades de Castilla-La Mancha
+  pi: Dra. Helena Hernández Martínez, Armando Collado Villaverde
+  years: 2019
+  type: National
+  url: http://isg.aut.uah.es/clm/
+
 - name: Sistema de control autónomo colaborativo para vehículos no tripulados
   funding: Ayudas para la promoción de empleo joven e implantación de la garantía juvenil en I+D+I
   participants: Ministerio de Economía y Competitividad
