@@ -46,6 +46,49 @@ header:
  .title {
     color: grey;
  }
+ 
+ /*
+	From this point onwards, the CSS code refers to 
+	how to create and manage flipable cards.
+ */
+ .flip-card {
+  background-color: transparent;
+  width: 300px;
+  height: 300px;
+  perspective: 1000px;
+}
+
+.flip-card-inner {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  transition: transform 0.6s;
+  transform-style: preserve-3d;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+}
+
+.flip-card:hover .flip-card-inner {
+  transform: rotateY(180deg);
+}
+
+.flip-card-front, .flip-card-back {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  backface-visibility: hidden;
+}
+
+.flip-card-front {
+  background-color: #ffffff;
+  color: black;
+}
+
+.flip-card-back {
+  background-color: #ffffff;
+  color: black;
+  transform: rotateY(180deg);
+}
 
 </style>
 
@@ -56,16 +99,21 @@ header:
  {% if odd == 0 %} <div class="row"> {% endif %}
  
   <div class="column">
-    <div class="card">
-      <a href="{{ person.url }}">
-      <img src="{{site.url}}/{{site.baseurl}}/{{ person.photo }}" alt="{{ person.name }}" style="width:100%">
-      </a>
-      <div class="container">
-        <h2>{{ person.name }}</h2>
-        <p class="title">{{ person.role }}</p>
-        <p>{{ person.interest }}</p>
-      </div>
-    </div>
+	<a href="{{person.url}}">
+	<!-- flip-card classes refer to the flipping card elements-->
+		<div class="flip-card">
+		  <div class="flip-card-inner">
+			<div class="flip-card-front">
+			  <img src="{{site.url}}/{{site.baseurl}}/{{ person.photo }}" alt="{{ person.name }}" style="height:100%">
+			</div>
+			<div class="flip-card-back">
+			  <h1>{{ person.name }}</h1> 
+			  <p class="title">{{ person.role }}</p>
+			  <p>{{ person.interest }}</p>
+			</div>
+		  </div>
+		</div>
+	</a>
   </div>
  {% if odd != 0 %} </div> {% endif %}
 

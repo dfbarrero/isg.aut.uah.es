@@ -14,11 +14,6 @@ layout: single
    text-align: center;
 }
 
-#cml-logo{
-	max-width:200px;
-    max-height:79px;
-}
-
 .logo {
    display: inline-block;
    margin-left: auto;
