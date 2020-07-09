@@ -12,7 +12,6 @@ header:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6cSWPd1M_pA" frameborder="0" allowfullscreen></iframe>
 <br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iRlg25wF6jw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <h2 class="bibliography">National projects</h2>
 
@@ -21,7 +20,7 @@ header:
 {% if project.type == "National" %}
     <li>
 			{% if project.url %}
-				<a href="{{project.url}}"><i>{{ project.name}}</i>. {{ project.funding}}. Participation of {{ project.participants}}. PI: {{ project.pi}}. {{project.grant}}. {{ project.years}}.</a>
+				<a href="{{project.url}}" style="text-decoration:none;"><i>{{ project.name}}</i></a>. {{ project.funding}}. Participation of {{ project.participants}}. PI: {{ project.pi}}. {{project.grant}}. {{ project.years}}.
 			{% else %}
 				<i>{{ project.name}}</i>. {{ project.funding}}. Participation of {{ project.participants}}. PI: {{ project.pi}}. {{project.grant}}. {{ project.years}}.
 			{% endif %}
@@ -29,6 +28,8 @@ header:
 {% endif %}
 {% endfor %}
 </ol>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iRlg25wF6jw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <h2 class="bibliography">International projects</h2>
 

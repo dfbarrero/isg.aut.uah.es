@@ -9,10 +9,10 @@ ruby RUBY_VERSION
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll", "3.4.0"
+gem "jekyll", ">= 3.7"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
-gem "minima", "~> 2.0"
+#gem "minima", "~> 2.0"
 gem "minimal-mistakes-jekyll"
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
@@ -24,7 +24,11 @@ group :jekyll_plugins do
    gem "jekyll-feed", "~> 0.6"
    gem "jekyll-scholar"
    gem "jekyll-youtube"
+   gem "jekyll-include-cache"
    gem 'jekyll-postfiles'
+   gem "nokogiri", ">= 1.10.8"
+   gem "ffi", ">= 1.9.24"
+   gem "bibtex-ruby", ">= 5.1.0"
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
