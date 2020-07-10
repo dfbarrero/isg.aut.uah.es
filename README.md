@@ -1,6 +1,8 @@
 # ISG research group website
 Source code of the group web site, available on http://isg.aut.uah.es/. Based on https://github.com/dfbarrero/personal-website
 
+Do not modify minimal-mistakes version!.
+
 # Usage
 1. Edit the _config.yml file to customize its settings.
 2. Edit the _bibliography/references.bib file and introduce your own references. BibTeX and links are automatically generated. Available fields are: 

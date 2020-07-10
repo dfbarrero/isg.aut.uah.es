@@ -1,10 +1,18 @@
+- name: Servidor de altas prestaciones para cómputo intensivo en aplicaciones de Big Data
+  funding: University of Alcalá (UAH INFR. B 2020-006)
+  participants: University of Alcalá
+  pi: David F. Barrero, PhD
+  grant: 26.686,22 euros
+  years: 2020
+  type: National
+
 - name: Aplicación de Aprendizaje Automático sobre datos biológicos de pacientes de diabetes.
   funding: Fondo Social Europeo
   participants: Junta de Comunidades de Castilla-La Mancha
   pi: Dra. Helena Hernández Martínez, Armando Collado Villaverde
   years: 2019
+  url: http://isg.aut.uah.es/diabetes/
   type: National
-  url: http://isg.aut.uah.es/clm/
 
 - name: Sistema de control autónomo colaborativo para vehículos no tripulados
   funding: Ayudas para la promoción de empleo joven e implantación de la garantía juvenil en I+D+I
@@ -33,6 +41,7 @@
   pi: María D. R-Moreno, PhD
   grant: 987.195 euros (54.007,50 euros UAH)
   years: 15/11/2018 - 14/11/2020
+  url: https://power.cti.p.lodz.pl/
   type: International
 
 - name: Utilización de redes neuronales como método para mantenimiento basado en la condición en los buques de la armada (SOPRENE)
