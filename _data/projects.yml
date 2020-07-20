@@ -1,9 +1,10 @@
 - name: Mejora de la gestión de recursos hospitalarios mediante la predicción de la demanda con Aprendizaje Automático y Planificación
   funding: Junta de Comunidades de Castilla-La Mancha (SBPLY/19/180501/000024)
   participants: Universidad de Alcalá
-  pi: María D. R-Moreno, PhD and Helena Hernández Martínez, PhD. 
+  pi: María D. R-Moreno, PhD and Helena Hernández Martínez, PhD
   grant: 99.607 euros 
   years: 2020-2023
+  url: http://isg.aut.uah.es/hosplan/
   type: National
 
 - name: Servidor de altas prestaciones para cómputo intensivo en aplicaciones de Big Data
@@ -14,26 +15,19 @@
   years: 2020
   type: National
 
-- name: Aplicación de Aprendizaje Automático sobre datos biológicos de pacientes de diabetes.
-  funding: Fondo Social Europeo
-  participants: Junta de Comunidades de Castilla-La Mancha
-  pi: Dra. Helena Hernández Martínez, Armando Collado Villaverde
-  years: 2019
-  url: http://isg.aut.uah.es/diabetes/
-  type: National
-
 - name: Sistema de control autónomo colaborativo para vehículos no tripulados
   funding: Ayudas para la promoción de empleo joven e implantación de la garantía juvenil en I+D+I
   participants: Ministerio de Economía y Competitividad
   pi: María D. R-Moreno, PhD
   years: 2019-2021
   type: National
-  
-- name: En colaboración con el Departamento de Enfermería, Sistema de predicción de diabétes
-  funding: Ayudas para la promoción de empleo joven e implantación de la garantía juvenil en I+D+I
-  participants: Junta de Comunidades de Castilla-La Mancha
-  pi: María D. R-Moreno, PhD
+
+- name: Aplicación de Aprendizaje Automático sobre datos biológicos de pacientes de diabetes
+  funding: Ayudas para la promoción de empleo joven e implantación de la garantía juvenil en I+D+I (Junta de Comunidades de Castilla-La Mancha y Fondo Social Europeo)
+  participants: Departamento de Enfermería y Fisioterapia de la UAH.
+  pi: Helena Hernández Martínez, PhD
   years: 2018-2020
+  url: http://isg.aut.uah.es/diabetes/
   type: National
   
 - name: Arquitecturas de control autónomo para vehículos no tripulados
@@ -103,7 +97,7 @@
 - name: Organización de las conferencias HUMASCEND y EST
   funding: University of Alcalá
   participants: University of Alcalá
-  pi: María D. R-Moreno
+  pi: María D. R-Moreno, PhD
   grant: 900 euros
   years: 2014-2014
   type: National
