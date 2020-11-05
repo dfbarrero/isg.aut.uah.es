@@ -3,14 +3,21 @@ Source code of the group web site, available on http://isg.aut.uah.es/. Based on
 
 Do not modify minimal-mistakes version!.
 
-# Jekyll installation
+# Compilation
 
 On Ubuntu:
 
 1.- Install Ruby and Jekyll ```sudo apt install jekyll'''
-2.- Install bundle ```sudo gem install bundler -v '2.0.1'```
+
+2.- Install bundle ```sudo gem install bundler -v '2.0.1' '''
+
 3.- Install dependencies ```bundler install'''
-4.- Compile  bundle exec jekyll build
+
+4.- Compile ```bundle exec jekyll build'''
+
+5.- website available in *_site*, copy it to *ISG-UAH*
+
+6.- You can test the website with ```bundle exec jekyll serve'''
 
 
 # Usage
