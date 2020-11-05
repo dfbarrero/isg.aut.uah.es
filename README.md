@@ -3,6 +3,16 @@ Source code of the group web site, available on http://isg.aut.uah.es/. Based on
 
 Do not modify minimal-mistakes version!.
 
+# Jekyll installation
+
+On Ubuntu:
+
+1.- Install Ruby and Jekyll ```sudo apt install jekyll'''
+2.- Install bundle ```sudo gem install bundler -v '2.0.1'```
+3.- Install dependencies ```bundler install'''
+4.- Compile  bundle exec jekyll build
+
+
 # Usage
 1. Edit the _config.yml file to customize its settings.
 2. Edit the _bibliography/references.bib file and introduce your own references. BibTeX and links are automatically generated. Available fields are: 
