@@ -1,0 +1,35 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+
+$max-width: 1024px;
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+#main {
+    max-width: $max-width;
+}
+
+.masthead__inner-wrap {
+    max-width: $max-width;
+}
+
+.page__hero--overlay .wrapper{
+    max-width: $max-width;
+}
+
+.greedy-nav .visible-links {
+    justify-content: inherit;
+}
+
+
+.sidebar.sticky {
+    overflow-y: auto;
+    max-height: none;
+}
+
+

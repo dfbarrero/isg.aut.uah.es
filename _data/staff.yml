@@ -1,0 +1,66 @@
+- name: María D. R-Moreno, PhD
+  role: Full professor
+  url: https://atc1.aut.uah.es/~mdolores/
+  photo: /assets/img/malola.jpg
+  interest: Planning and Scheduling, Space Robotics
+
+- name: Fernando Ropero, PhD
+  role: Postdoc
+  url: http://fropero.com/
+  photo: /assets/img/fernando.jpg
+  interest: UAV-UGV cooperation, UAV controllers
+
+- name: Pablo Muñoz, PhD
+  role: Lecturer
+  url: https://pmunoz.es
+  photo: /assets/img/pmunoz.png
+  interest: Planning and Scheduling, Space Robotics, path-planning
+
+- name: David F. Barrero, PhD
+  role: Associate professor
+  url: https://atc1.aut.uah.es/~david/
+  photo: /assets/img/dfbarrero.jpg
+  interest: Head of ISG. Bio-inspired algorithms, Machine Learning
+
+- name: Daniel Rodríguez, PhD
+  role: Associated professor
+  url: http://www.cc.uah.es/drg/
+  photo: /assets/img/drodriguez.jpg
+  interest: Machine Learning, Software Engineering
+
+- name: Ángel Moreno Blázquez
+  role: Associate lecturer
+  url: http://www.linkedin.com/in/angel-moreno-blazquez
+  photo: /assets/img/angel.png
+  interest: Machine Learning
+
+- name: Armando Collado Villaverde
+  role: PhD student
+  url: https://scholar.google.com/citations?user=78fzpvgAAAAJ&hl=en
+  photo: /assets/img/armando.jpg
+  interest: Machine Learning, Deep Learning, AI in Videogames
+
+- name: Mario Cobos
+  role: PhD student
+  url: https://github.com/R012
+  photo: /assets/img/mario.jpg
+  interest: Machine Learning, Model Explainability y Solar Wind Prediction
+
+- name: José Aguilar, PhD
+  role: Marie Curie Researcher
+  url: https://scholar.google.es/citations?user=L3C_ixQAAAAJ&hl=es
+  photo: /assets/img/joseaguilar.jpg
+  interest: Machine Learning, computational intelligence, multi-agent systems, semantic mining, combinatorial optimization, pattern recognition, control and automation systems
+  
+- name: Muhammad Babar Rasheed, PhD
+  role: Marie Curie Researcher
+  url: https://sites.google.com/site/babarmeher/home
+  photo: /assets/img/muhammad.jpg
+  interest: Optimization Algorithms, Energy Management and Smart Grids
+  
+- name: Hugo Álvarez Chaves
+  role: Researcher
+  url: https://es.linkedin.com/in/hugoalvarezchaves
+  photo: /assets/img/hugo.jpg
+  interest: Machine Learning, Deep Learning
+
