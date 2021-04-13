@@ -7,10 +7,12 @@ layout: single
 
 <div class="home">
     <h1>Welcome</h1>
-    
+   
     <p>The Intelligent Systems Group (ISG) is a research group devoted to the research of Artificial Intelligence and its applications. ISG is composed of researchers from different departments (Computer Engineering, Computer Science and Mathematics) of University of Alcalá, in Spain.</p>
 
     <p>The group is active in high scientific and commercial areas, such as Space Research, Autonomous Systems Control (Robotics), Machine Learning, Process optimization based on Bio-inspired computing, Early Detection of Users Commercial Intentions, Social Networks or Simulation Environments and Pattern Behavior Recognition for people and systems.</p>
+    
+    <p>The ISG Group</p>
 
 <style>
 #logos {
