@@ -1,3 +1,19 @@
+- name: An Optimal Load Scheduling and Fair Pricing mechanism Using Heurisic Optimization in Smart Grid
+  funding: European Comision, Marie Curie GOT ENERGY TALENT
+  participants: 
+  pi: 
+  grant:
+  years: 
+  type: International
+
+- name: Automatic energy Management Systems based on Data for Smart Building
+  funding: European Comision, Marie Curie GOT ENERGY TALENT
+  participants:
+  pi: 
+  grant: 
+  years: 
+  type: International
+
 - name: Mejora de la gestión de recursos hospitalarios mediante la predicción de la demanda con Aprendizaje Automático y Planificación
   funding: Junta de Comunidades de Castilla-La Mancha (SBPLY/19/180501/000024)
   participants: Universidad de Alcalá (Computer Engineering and Nursery and Physiotherapy Departments) and Hospital Universitario de Guadalajara
