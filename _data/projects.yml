@@ -1,3 +1,21 @@
+- name: Deep Neural Networks for Geomagnetic Forecasting
+  funding: ESA's Discovery & Preparation programme (4000137421/22/NL/GLC/my)
+  participants: European Space Agency and Universidad de Alcalá
+  pi: Dr. Pablo Muñoz Martínez
+  grant: 90.000 euros
+  years: 2022-2025
+  url: https://www.esa.int/Enabling_Support/Preparing_for_the_Future/Discovery_and_Preparation/Implemented_OSIP_ideas_February_2022
+  type: International
+
+- name: Escuela de Verano Latinoamericana de Aprendizaje Profundo
+  funding: Universidad de Alcalá (PI2022/EXP-14)
+  participants: Univiersidad de Alcalá (Spain), Instituto Tecnológico Autónomo de México (Mexico), Universidad Técnica Particular de Loja (Ecuador), Universidad de los Andes (Venezuela), UEFIT (Colombia), Universidad Católica San Pablo (Peru) and Universidad Nacional de Asunción (Paraguay)
+  pi: Dr. David F. Barrero
+  grant: 4.190 euros
+  years: 2022
+  url: https://isg-uah.github.io/elap2022/
+  type: International
+
 - name: An Optimal Load Scheduling and Fair Pricing mechanism Using Heurisic Optimization in Smart Grid
   funding: European Comision, Marie Curie GOT ENERGY TALENT
   participants: 
@@ -6,7 +24,7 @@
   years: 2020-2022
   type: International
 
-- name: Automatic energy Management Systems based on Data for Smart Building
+- name: Automatic Energy Management Systems based on Data for Smart Building
   funding: European Comision, Marie Curie GOT ENERGY TALENT
   participants:
   pi: Dr. José Aguilar
