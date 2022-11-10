@@ -1,3 +1,21 @@
+- name: Convocatoria de Ayudantes de Investigación y Técnicos de Laboratorio de la Comunidad de Madrid
+  funding: Comunidad de Madrid (PEJ-2021-TL/TIC-22596)
+  participants: 
+  pi: Dr. David F. Barrero
+  grant: 
+  years: 2022
+  url: 
+  type: National
+
+- name: Convocatoria de Ayudantes de Investigación y Técnicos de Laboratorio de la Comunidad de Madrid
+  funding: Comunidad de Madrid 
+  participants: 
+  pi: Dr. Maria D. R-Moreno
+  grant: 
+  years: 2022
+  url: 
+  type: National
+
 - name: Deep Neural Networks for Geomagnetic Forecasting
   funding: ESA's Discovery & Preparation programme (4000137421/22/NL/GLC/my)
   participants: European Space Agency and Universidad de Alcalá

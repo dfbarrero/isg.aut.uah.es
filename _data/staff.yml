@@ -12,7 +12,7 @@
 
 - name: Pablo Muñoz, PhD
   role: Lecturer
-  url: https://pmunoz.es
+  url: https://munozp.github.io/
   photo: /assets/img/pmunoz.png
   interest: Planning and Scheduling, Space Robotics, path-planning
 
@@ -23,16 +23,16 @@
   interest: Head of ISG. Bio-inspired algorithms, Machine Learning
 
 - name: Daniel Rodríguez, PhD
-  role: Associated professor
+  role: Associate professor
   url: http://www.cc.uah.es/drg/
   photo: /assets/img/drodriguez.jpg
   interest: Machine Learning, Software Engineering
 
-- name: Ángel Moreno Blázquez
-  role: Associate lecturer
-  url: http://www.linkedin.com/in/angel-moreno-blazquez
-  photo: /assets/img/angel.png
-  interest: Machine Learning
+#- name: Ángel Moreno Blázquez
+#  role: Associate lecturer
+#  url: http://www.linkedin.com/in/angel-moreno-blazquez
+#  photo: /assets/img/angel.png
+#  interest: Machine Learning
 
 - name: Armando Collado Villaverde
   role: PhD student
@@ -44,13 +44,13 @@
   role: PhD student
   url: https://github.com/R012
   photo: /assets/img/mario.jpg
-  interest: Machine Learning, Model Explainability y Solar Wind Prediction
+  interest: Machine Learning, model explainability and Solar Wind Prediction
 
-- name: José Aguilar, PhD
-  role: Marie Curie Researcher
-  url: https://scholar.google.es/citations?user=L3C_ixQAAAAJ&hl=es
-  photo: /assets/img/joseaguilar.jpg
-  interest: Machine Learning, computational intelligence, multi-agent systems, semantic mining, combinatorial optimization, pattern recognition, control and automation systems
+#- name: José Aguilar, PhD
+#  role: Marie Curie Researcher
+#  url: https://scholar.google.es/citations?user=L3C_ixQAAAAJ&hl=es
+#  photo: /assets/img/joseaguilar.jpg
+#  interest: Machine Learning, computational intelligence, multi-agent systems, semantic mining, combinatorial optimization, pattern recognition, control and automation systems
   
 - name: Muhammad Babar Rasheed, PhD
   role: Marie Curie Researcher
@@ -62,4 +62,22 @@
   role: Researcher
   url: https://es.linkedin.com/in/hugoalvarezchaves
   photo: /assets/img/hugo.jpg
-  interest: Machine Learning, Deep Learning
+  interest: Machine Learning in Healthcare
+
+- name: Jorge Cabrejas Marina
+  role: Researcher
+  url: https://www.linkedin.com/in/jorge-cabrejas-marina-65b436172/
+  photo: /assets/img/jorge.png
+  interest: Machine Learning
+
+- name: Iván Maseda Zurdo
+  role: Researcher
+  url: https://www.linkedin.com/in/imaseda
+  photo: /assets/img/ivan.jpg
+  interest: Web development
+
+- name: Alejandro Martínez Martínez
+  role: IT
+  url: https://www.linkedin.com/in/alejandro-martinez-martinez-090b84231
+  photo: /assets/img/alejandro.png
+  interest: Systems administration
